@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NuevoCable" tvg-logo="nuevocable.png" group-title="TV LIVE", Nuevo Cable HD
+#EXT-X-VERSION:3
 rtmp://nuevocable.ddns.net:8002/canal11/stream
